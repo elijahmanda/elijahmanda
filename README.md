@@ -1,7 +1,5 @@
-Hi, I’m elijah manda i'm a student learning Natural language Processing,data science, machine/deep learning.
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning python, c and rust
-- 💞️ I’m looking to collaborate on machine learning projects and mobile app development using python and learning more about the mathematics underlying deep learning and help to improve them
+Hi, I’m elijah manda i'm a student learning Natural language Processing,data science, machine/deep learning
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me elijahmandajc@gmail.com
 
 
