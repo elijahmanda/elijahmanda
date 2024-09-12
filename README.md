@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm an advanced programmer with expertise in Pytho
 
 ## Projects
 
-- **Educational App**: Developing a physics education app using Kivy.
 - **Scientific Website**: Creating a website with scientific and educational content on topics like astronomy, chemistry, and physics.
 - **Symbolic Computational Engine**: Designing an advanced engine for symbolic computation.
 - **Web Development**: Building a messaging tool with a focus on modern web technologies.
