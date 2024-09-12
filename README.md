@@ -26,7 +26,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ## Contact
 
-For any inquiries, please email me at [your.email@example.com](mailto:elijahmandajc@gmail.com).
+For any inquiries, please email me at [elijahmandajc@gmail.com](mailto:elijahmandajc@gmail.com).
 
 ---
 
