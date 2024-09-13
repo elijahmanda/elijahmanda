@@ -1,6 +1,6 @@
 # About Me
 
-Welcome to my GitHub profile! I'm an advanced programmer with expertise in Python, C, C++, and Rust. My work spans various domains including Natural Language Processing (NLP), Artificial Intelligence (AI), Computational Science, and Automation. I am passionate about developing innovative solutions and tackling complex problems in these fields.
+Welcome to my GitHub profile! I'm an programmer with expertise in Python, C, C++, and Rust. My work spans various domains including Natural Language Processing (NLP), Artificial Intelligence (AI), Computational Science, and Automation. I am passionate about developing innovative solutions and tackling complex problems in these fields.
 
 ## Skills
 
