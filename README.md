@@ -1,18 +1,26 @@
-# About Me
+# Hi, I'm Elijah Manda 👋
 
-Welcome to my GitHub profile! I'm a programmer, and I love coding!
+I'm a **developer** and **student** passionate about building efficient solutions with **Python**, **C++**, **C**, and **JavaScript**. My interests span web development, programming languages, and elegant problem solving.
 
-## Connect With Me
+## 🛠️ Skills
+- Python, C++, C, JavaScript
+- Web Development
+- Minimalist & professional coding style
 
-- [LinkedIn](https://www.linkedin.com/in/elijahmandajc)
-- [Twitter](https://twitter.com/ElijahManda)
+## 🚀 Featured Project
+- [symbolic-lang](https://github.com/elijahmanda/symbolic-lang): My favorite repository, focused on building a symbolic programming language.
 
-Feel free to explore my repositories and reach out if you have any questions or collaborations in mind!
+## 📚 About Me
+- Always learning, always building.
+- Striving for clean, maintainable, and impactful code.
 
-## Contact
-
-For any inquiries, please email me at [elijahmandajc@gmail.com](mailto:elijahmandajc@gmail.com).
+<!-- Optionally add links below -->
+<!--
+## 📫 Connect
+- [LinkedIn](your-link)
+- [Website/Blog](your-link)
+-->
 
 ---
 
-Happy coding!
+Thanks for visiting my profile!
