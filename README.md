@@ -1,26 +1,21 @@
-# Hi, I'm Elijah Manda 👋
+Elijah Manda
 
-I'm a **developer** and **student** passionate about building efficient solutions with **Python**, **C++**, **C**, and **JavaScript**. My interests span web development, programming languages, and elegant problem solving.
+Developer with a focus on systems programming, web development, and language design. Proficient in Python, C++, C, and JavaScript.
 
-## 🛠️ Skills
-- Python, C++, C, JavaScript
-- Web Development
-- Minimalist & professional coding style
+Core Technologies
 
-## 🚀 Featured Project
-- [symbolic-lang](https://github.com/elijahmanda/symbolic-lang): My favorite repository, focused on building a symbolic programming language.
+· Python, C++, C, JavaScript
+· Web Development
+· Systems Programming
 
-## 📚 About Me
-- Always learning, always building.
-- Striving for clean, maintainable, and impactful code.
+Featured Project
 
-<!-- Optionally add links below -->
-<!--
-## 📫 Connect
-- [LinkedIn](your-link)
-- [Website/Blog](your-link)
--->
+· symbolic-lang: Implementation of a symbolic programming language from scratch.
+
+Development Approach
+
+· Minimalist, maintainable code
+· Focus on efficient solutions
+· Continuous learning and building
 
 ---
-
-Thanks for visiting my profile!
